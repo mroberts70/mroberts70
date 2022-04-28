@@ -1,8 +1,7 @@
-- 👋 Sup
+👋 Sup
 
 
-- my repo's:<br>
-- https://github.com/mroberts70?tab=repositories
+my repo's: https://github.com/mroberts70?tab=repositories
 
 
 
